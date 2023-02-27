@@ -1,0 +1,16 @@
+D:\Code\server-side-mastery\Classes\bin\Debug\net5.0\Classes.exe
+D:\Code\server-side-mastery\Classes\bin\Debug\net5.0\Classes.deps.json
+D:\Code\server-side-mastery\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+D:\Code\server-side-mastery\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+D:\Code\server-side-mastery\Classes\bin\Debug\net5.0\Classes.dll
+D:\Code\server-side-mastery\Classes\bin\Debug\net5.0\ref\Classes.dll
+D:\Code\server-side-mastery\Classes\bin\Debug\net5.0\Classes.pdb
+D:\Code\server-side-mastery\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+D:\Code\server-side-mastery\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\server-side-mastery\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+D:\Code\server-side-mastery\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+D:\Code\server-side-mastery\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+D:\Code\server-side-mastery\Classes\obj\Debug\net5.0\Classes.dll
+D:\Code\server-side-mastery\Classes\obj\Debug\net5.0\ref\Classes.dll
+D:\Code\server-side-mastery\Classes\obj\Debug\net5.0\Classes.pdb
+D:\Code\server-side-mastery\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
