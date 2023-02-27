@@ -1,0 +1,16 @@
+D:\Code\server-side-mastery\CsClassesBasics\bin\Debug\net5.0\CsClassesBasics.exe
+D:\Code\server-side-mastery\CsClassesBasics\bin\Debug\net5.0\CsClassesBasics.deps.json
+D:\Code\server-side-mastery\CsClassesBasics\bin\Debug\net5.0\CsClassesBasics.runtimeconfig.json
+D:\Code\server-side-mastery\CsClassesBasics\bin\Debug\net5.0\CsClassesBasics.runtimeconfig.dev.json
+D:\Code\server-side-mastery\CsClassesBasics\bin\Debug\net5.0\CsClassesBasics.dll
+D:\Code\server-side-mastery\CsClassesBasics\bin\Debug\net5.0\ref\CsClassesBasics.dll
+D:\Code\server-side-mastery\CsClassesBasics\bin\Debug\net5.0\CsClassesBasics.pdb
+D:\Code\server-side-mastery\CsClassesBasics\obj\Debug\net5.0\CsClassesBasics.csproj.AssemblyReference.cache
+D:\Code\server-side-mastery\CsClassesBasics\obj\Debug\net5.0\CsClassesBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\server-side-mastery\CsClassesBasics\obj\Debug\net5.0\CsClassesBasics.AssemblyInfoInputs.cache
+D:\Code\server-side-mastery\CsClassesBasics\obj\Debug\net5.0\CsClassesBasics.AssemblyInfo.cs
+D:\Code\server-side-mastery\CsClassesBasics\obj\Debug\net5.0\CsClassesBasics.csproj.CoreCompileInputs.cache
+D:\Code\server-side-mastery\CsClassesBasics\obj\Debug\net5.0\CsClassesBasics.dll
+D:\Code\server-side-mastery\CsClassesBasics\obj\Debug\net5.0\ref\CsClassesBasics.dll
+D:\Code\server-side-mastery\CsClassesBasics\obj\Debug\net5.0\CsClassesBasics.pdb
+D:\Code\server-side-mastery\CsClassesBasics\obj\Debug\net5.0\CsClassesBasics.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W1ekpGQ5dn/W+qDZcSUmNeXdv7VBNn7QYAbuXuXAji+AHhe19eyMDE8m6SGz33DEJsmU9KQIwWZYO6TqNTvl7Q==",
+  "dgSpecHash": "mG0CD13GegI/OVpp667EtYIg/SIs9Ppa3t/3TtHsPRANh4qC1sJHeo0tV4PrqBaJWWqlfeVAl/TqqnvgTJ942w==",
   "success": true,
-  "projectFilePath": "D:\\Code\\server-side-mastery\\Classes\\Classes.csproj",
+  "projectFilePath": "D:\\Code\\server-side-mastery\\CsClassesBasics\\CsClassesBasics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

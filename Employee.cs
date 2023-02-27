@@ -1,6 +1,6 @@
 using System;
 
-namespace Classes
+namespace CsClassesBasics
 {
     public class Employee
     {

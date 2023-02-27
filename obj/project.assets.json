@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\server-side-mastery\\Classes\\Classes.csproj",
-      "projectName": "Classes",
-      "projectPath": "D:\\Code\\server-side-mastery\\Classes\\Classes.csproj",
+      "projectUniqueName": "D:\\Code\\server-side-mastery\\CsClassesBasics\\CsClassesBasics.csproj",
+      "projectName": "CsClassesBasics",
+      "projectPath": "D:\\Code\\server-side-mastery\\CsClassesBasics\\CsClassesBasics.csproj",
       "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\server-side-mastery\\Classes\\obj\\",
+      "outputPath": "D:\\Code\\server-side-mastery\\CsClassesBasics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\will\\AppData\\Roaming\\NuGet\\NuGet.Config",
